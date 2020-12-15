@@ -1,19 +1,33 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
 import Home from '../views/Home.vue'
 
+
+
+const Recommend = () => import('../views/recommend/recommend.vue')
+const songList = () => import('../views/songList/songList.vue')
+
+
 const routes = [
   {
-    path: '/',
-    name: 'Home',
-    component: Home
+    path:"",
+    redirect:"/home/recommend"
   },
   {
-    path: '/about',
-    name: 'About',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
+    path: '/home',
+    name: 'Home',
+    component: Home,
+    children: [
+      {
+        path: 'recommend',
+        name: 'Recommend',
+        component: Recommend,
+      },
+      {
+        path: 'songList',
+        name: 'songList',
+        component: songList,
+      }
+    ]
   }
 ]
 

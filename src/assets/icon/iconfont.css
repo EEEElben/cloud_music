@@ -1,0 +1,28 @@
+@font-face {font-family: "iconfont";
+  src: url('//at.alicdn.com/t/font_2243307_ckjhqqbbpy5.eot?t=1607406974484'); /* IE9 */
+  src: url('//at.alicdn.com/t/font_2243307_ckjhqqbbpy5.eot?t=1607406974484#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAQcAAsAAAAACJQAAAPQAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDDAqEQINUATYCJAMQCwoABCAFhG0HZhtUBxFVnN3Ifhw4Z9lh3ekwf15UCV2ke86Hz03fF9KfOHgn4ho2h82BmaWWzk4mehO79ro0QABBWb9+ax6N5hjKhsIZmQ7dq3O8D/f+2b+ATrdlUzJEQ/SPe6d/1Pk6nw8olznGedQFGE2gwPb0sS3gAsSGsSsv4jAQAApKoQZIh049BkCAwxhFAJAZUyePhUjpwWtIBEIllSzkIDvgg6Cb6RMA2/3fk7+oRwRA4WMwJvaZ1HEC2vzUf5rM9myMcBEIxrMCYMsABqAGAA6QIaX2fmBhvAYYFCXOUQlYVy8C/DQ9j5+6y1+tHG3/eBQgEgy5BokNEgz4qdv8WGFAOc5QAPNAAQA6AQGT5wDPILHEp1AwsIqVYkakuMWXD3IrKCHnTuJepYiSyA8NyLerDkxXpPuuqnryOmF50cGF8S4DUolIK5oKaYkMYS1SmcigTLzw46LRPar6MNldDUeT4YHp5bmVMoqRCDlVnJMxeuhlQ/P869Js/2nDTIdToQn5iWqTMpE9C/deqWDkXivG4tF0eGJBsvrkPdF9WKplMvEgR8+yqJ2agJMYovqT6bCUSo3RRESXouaU43SmNbvVxXHqHRvZb+vVtldXjhti3Vh5/ATqYdEir20Z2Z+dV8xfrGbf/9JWtPayRYvBrc87eJs8Wp7GP/jrtHiVn/tPOP3DQdb92r5n3evUoX7HqY8m4y7XXnjbsPVb6+saMemd9viGfeOx9k6q8t62dzbsUNZ4f4Oy0ejibs7jsFL/qH20vvLOWjltczTiPbyyZScNORpEq7NLRs5x/e6crseODxduwBWzZVd+JFzxKMv9R74nrN9Foa25LCTPpQ+Vr2Iq5sDBrjF/WCF9B3gbmMeW/+VB6BW8eG+02aJIqJdb97mo0Srk9TZwtHMC4gU4CPBPBS0ruCoyDJzLYpuvBTi6YwFRCkAxQ4AHwx3AtzGU4dbFAIFAOAaKLJQEBoEKKCfWAB9UNAAJQqA1KKrLl6uCxBGZDKCaNwDC8gHKcB0YyxflxB/4RPxBYnUExaCCG6oq1XntBYWipvJFXcWzsUzqBaUXNMtYSFLk0x4Q14UoDqJsKscMGWOKW5tE1ZARnigDx2Ecmaxwj0qDVtWmYWjKrhRUPO087QkoKKiR0gvpVNjMuLWVl/v+BTQWo4LUlFXYH0A4XeckFohaoLl8blV2Ld2dVSOhlMHDDMEmJINWGM04I7a8Xw8qKtD2iFqpEFUzbeXB/MrpCbcBKIyNeZQwwokPgY8lZr8aWVs4P8D2dc5yrLwVI1vIhFOea6WbB6bb7QA=') format('woff2'),
+  url('//at.alicdn.com/t/font_2243307_ckjhqqbbpy5.woff?t=1607406974484') format('woff'),
+  url('//at.alicdn.com/t/font_2243307_ckjhqqbbpy5.ttf?t=1607406974484') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('//at.alicdn.com/t/font_2243307_ckjhqqbbpy5.svg?t=1607406974484#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-elben-clothes-copy:before {
+  content: "\e70e";
+}
+
+.icon-elben-envelope-copy:before {
+  content: "\e70f";
+}
+
+.icon-elben-shrink-copy:before {
+  content: "\e70d";
+}
