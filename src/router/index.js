@@ -3,8 +3,8 @@ import Home from '../views/Home.vue'
 
 
 
-const Recommend = () => import('../views/recommend/recommend.vue')
-const songList = () => import('../views/songList/songList.vue')
+const Recommend = () => import('../views/main/recommend/recommend.vue')
+const songList = () => import('../views/main/songList/songList.vue')
 
 
 const routes = [
